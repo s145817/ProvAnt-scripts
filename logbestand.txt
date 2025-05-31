@@ -1,0 +1,79 @@
+Aangemaakt op 20 May 2025
+Model number                    : WS-C2960CX-8PC-L
+System serial number            : FOC2321Y11X
+ProvAnt inventarisnummer = 15u51
+---------
+
+Aangemaakt op 22 May 2025
+Model number                    : WS-C3560CX-12PC-S
+System serial number            : FOC2219T3TN
+ProvAnt inventarisnummer = aaaaaa15355
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C3560CX-12PC-S
+System serial number            : FOC2108Z04P
+ProvAnt inventarisnummer = 00250801
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C3560CX-12PC-S
+System serial number            : FOC2238T4R5
+ProvAnt inventarisnummer = 00250798
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C3560CX-12PC-S
+System serial number            : FOC2238T34A
+ProvAnt inventarisnummer = 00359375
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C3560CX-12PC-S
+System serial number            : FOC2108Z06W
+ProvAnt inventarisnummer = 00250795
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C2960CX-8PC-L
+System serial number            : FOC2051Y0HV
+ProvAnt inventarisnummer = 00196653
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C2960CX-8PC-L
+System serial number            : FOC2114Y0EF
+ProvAnt inventarisnummer = 00253318
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C2960CX-8PC-L
+System serial number            : FOC2051Y0G3
+ProvAnt inventarisnummer = 00196655
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C2960CX-8PC-L
+System serial number            : FOC2114Y0CQ
+ProvAnt inventarisnummer = 00253315
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C2960CX-8PC-L
+System serial number            : FOC2051Y0HT
+ProvAnt inventarisnummer = 00196656
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C2960CX-8PC-L
+System serial number            : FOC2114Z0KE
+ProvAnt inventarisnummer = 00253321
+---------
+
+Aangemaakt op 23 May 2025
+Model number                    : WS-C3560CX-12PC-S
+System serial number            : FOC2129Y02J
+ProvAnt inventarisnummer = 00253301
+
+
+
